@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeroen</h1>
-<h3 align="center">A frontend developer</h3>
+<h3 align="center">A full stack developer</h3>
 
 - 🔭 I’m currently working on [Electron Anticheat](https://electron-ac.com/)
 
