@@ -8,9 +8,4 @@
 - Interested in low level development with Rust, C and C++
 - Building web platforms, APIs and tooling
 
-<h3>Tech</h3>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tomtien&show_icons=true&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tomtien&layout=compact&theme=transparent" height="165"/>
-</p>
